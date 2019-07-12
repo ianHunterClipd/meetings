@@ -1,0 +1,22 @@
+7/11/2019 - Engineering Meeting
+
+1) Style guides and git usage - important! See the repo
+
+2) Changes in 1 on 1 meeting format / schedule. 
+
+3) Post 2 - 
+!Where we are now
+    -able to post everything but files
+        --files will be uploaded after the initial data is accepted and returned
+        --this will help us in the item preview
+    -styling
+        --dropdown buttons are being covered - need to be able to see them!
+        --OrganizeSelect styles / page styles
+!Where we go next
+    -autocomplete 
+        --first autocomplete field will be location (Manju)
+        --more should follow soon! (Jiahao / Christie)
+    -updates to StreamItem / StreamItemInteraction to include new data types (Manju / Ben)
+        --should more or less be repeated code from other element types
+
+4) Other 
